@@ -7,3 +7,7 @@ $: ng new todo
 ```shell
 $: ng serve --open
 ```
+### add component
+```shell
+ng generate component components/header
+```
