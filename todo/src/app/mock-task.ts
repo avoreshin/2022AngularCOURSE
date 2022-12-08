@@ -9,7 +9,7 @@ export const TASKS : Task [] = [
   },
   {
     id:2,
-    text: 'Doctors Apple',
+    text: 'Fast Evil',
     day: 'Dec 8th at 10:50pm',
     reminder: true
   },
