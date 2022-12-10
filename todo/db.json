@@ -4,7 +4,7 @@
       "id": 1,
       "text": "Doctors Apple",
       "day": "Dec 8th at 10:48pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
