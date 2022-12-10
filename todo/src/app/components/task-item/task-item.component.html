@@ -1,4 +1,6 @@
-<div class="task"  [ngClass]="{reminder : task?.reminder}">
+<div class="task"  [ngClass]="{reminder : task?.reminder}"
+(dblclick)="onToggle(task)"
+>
   <h3>{{task?.text}}
     <fa-icon (click)="onDelete(task)"
              [ngStyle]="{color: 'red'}"
