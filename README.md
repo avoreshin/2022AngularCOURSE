@@ -11,3 +11,6 @@ $: ng serve --open
 ```shell
 ng generate component components/header
 ```
+
+![](todo/src/assets/1.png))
+![](todo/src/assets/2.png)
